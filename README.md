@@ -1,6 +1,7 @@
 # the canvas
 I have squares triangles and circles.
-I used an html template I made that sets up the canvas and says hello world
+I used an html template I made that sets up the canvas and says hello world.
+
 I have the code in the files
 I have here some screenshots
 <img width="1365" height="645" alt="Screenshot 2026-10-15 4 30 20 PM" src="https://github.com/user-attachments/assets/49f8665c-d1ee-4e57-ac47-aad69566ad25" />
